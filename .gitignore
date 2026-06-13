@@ -1,0 +1,6 @@
+**/node_modules/
+**/.env
+*.log
+**/dist/
+**/build/
+git rm --cached backend/config/config.env
